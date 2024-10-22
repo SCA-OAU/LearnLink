@@ -34,6 +34,17 @@ Access resources for mobile development, including  iOS and Android platforms. F
 - [**Intermediate Level**](./MobileDevelopment//MobileDevelopment.md/#-intermediate-level)
 - [**Advanced Level**](./MobileDevelopment//MobileDevelopment.md/#-advanced-level)
 
+## 🎨Product Design
+Access resources for product design. Find tutorials, courses, blogs and communities to help you design and curate excellent user experience.
+- [**Beginners level**](./ProductDesign//ProductDesign.md/#getting-started)
+- [**Intermediate level**](./ProductDesign//ProductDesign.md/#prototyping--design-tools)
+- [**Advanced level**](./ProductDesign//ProductDesign.md.md/#design-systems--ui-kits)
+
+## 👨‍💻Programming Basics
+Access resources to help you kickstart your programming journey. Find tutorials to the 10 most popular programming languages.
+- [**Beginners level**](./ProgrammingBasics//ProgrammingBasics.md)
+
+
 
 ## 🧠 Personal Development
 
