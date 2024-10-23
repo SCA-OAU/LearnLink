@@ -58,6 +58,15 @@ Access a range of materials for personal growth, including goal setting, product
 - [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
 - [**Books**](./personalDevelopment/personaldevelopment/#-books)
 
+
+## ᯅ Spatial Computing 
+
+Kickstart a career on Spatial Computing with the aid of these learning resources:
+
+- [**Articles**]()
+- [**Courses**]()
+- [**Communities**]()
+
 ---
 
 ## 🤝 Contributions
