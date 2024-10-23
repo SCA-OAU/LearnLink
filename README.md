@@ -61,11 +61,13 @@ Access a range of materials for personal growth, including goal setting, product
 
 ## ᯅ Spatial Computing 
 
-Kickstart a career on Spatial Computing with the aid of these learning resources:
+Spatial computing is any of various human–computer interaction techniques that are perceived by users as taking place in the real world, in and around their natural bodies and physical environments, instead of constrained to and perceptually behind computer screens. 
 
-- [**Articles**]()
-- [**Courses**]()
-- [**Communities**]()
+Kickstart a career in Spatial Computing with the aid of these learning resources:
+
+- [**Articles**](./SpatialComputing/spatial-computing.md/#-articles)
+- [**Courses**](./SpatialComputing/spatial-computing.md/#-courses)
+- [**Communities**](./SpatialComputing/spatial-computing.md/#-communities)
 
 ---
 
