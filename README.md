@@ -9,7 +9,8 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 1. [Frontend Development](#-frontend-development)
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
-3. [Personal Development](#-personal-development)
+4. [Personal Development](#-personal-development)
+5. [Machine Learning](#-machine-learning)
 
 ---
 
@@ -57,6 +58,16 @@ Access a range of materials for personal growth, including goal setting, product
 - [**Intermediate Level**](./personalDevelopment/personaldevelopment/#-intermediate-level)
 - [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
 - [**Books**](./personalDevelopment/personaldevelopment/#-books)
+
+## 🤖 Machine Learning
+
+Access a range of materials of machine learning ranging from videos, courses, books to make you better.
+
+- [**Beginner Level**](./MachineLearning/MachineLearning.md/#-beginner-level)
+- [**Intermediate Level**](./MachineLearning/MachineLearning.md/#-intermediate-level)
+- [**Advanced Level**](./MachineLearning/MachineLearning.md/#-advanced-level)
+- [**Books**](./MachineLearning/MachineLearning.md/#-books)
+
 
 ---
 
