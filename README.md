@@ -9,7 +9,8 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 1. [Frontend Development](#-frontend-development)
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
-3. [Personal Development](#-personal-development)
+4.  [Personal Development](#-personal-development)
+5.  [Spatial Computing](#spatial-computing)
 
 ---
 
