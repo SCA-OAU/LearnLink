@@ -10,7 +10,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
 4.  [Personal Development](#-personal-development)
-5.  [Spatial Computing](#spatial-computing)
+5.  [Spatial Computing](#-spatial-computing)
 
 ---
 
@@ -59,8 +59,7 @@ Access a range of materials for personal growth, including goal setting, product
 - [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
 - [**Books**](./personalDevelopment/personaldevelopment/#-books)
 
-
-## ᯅ Spatial Computing 
+## ᯅ Spatial Computing
 
 Spatial computing is any of various human–computer interaction techniques that are perceived by users as taking place in the real world, in and around their natural bodies and physical environments, instead of constrained to and perceptually behind computer screens. 
 
