@@ -65,9 +65,9 @@ Spatial computing is any of various human–computer interaction techniques that
 
 Kickstart a career in Spatial Computing with the aid of these learning resources:
 
-- [**Articles**](./SpatialComputing/spatial-computing.md/#-articles)
-- [**Courses**](./SpatialComputing/spatial-computing.md/#-courses)
-- [**Communities**](./SpatialComputing/spatial-computing.md/#-communities)
+- [**Articles**](./SpatialComputing/resources.md/#-articles)
+- [**Courses**](./SpatialComputing/resources.md/#-courses)
+- [**Communities**](./SpatialComputing/resources.md/#-communities)
 
 ---
 
