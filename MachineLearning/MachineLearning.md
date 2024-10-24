@@ -5,12 +5,12 @@ Welcome to the **Machine Learning** section. Whether you're just starting or hav
 ![Machine Learning](./assets/machinelearning.jpg)
 
 ## 📑 Table of Contents
-1. [Beginner Level](#-beginner-level)
+1. [Beginners Level](#-beginners-level)
 2. [Intermediate Level](#-intermediate-level)
 3. [Advanced Level](#-advanced-level)
-4. [Popular Tools & frameworks](#-popular-tools-and-frameworks)
+4. [Popular Tools & frameworks](#️-popular-tools--frameworks)
 5. [Additional Resources](#-additional-resources)
-6. [Contribute](#-contribute)
+6. [Contributing](#-contributing)
 
 
 ---
@@ -31,7 +31,6 @@ Machine learning is a field of artificial intelligence (AI) that allows systems 
 5. **[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)** -
 Machine Learning with Python.
 
-![Beginner GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3UwdzBvdm01Z3luM3kwemhpOTMycHZtcTRmbmxwMzJ6NnFuMGdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voMyf7YAM2GjSx0Yw9/giphy.gif)
 ---
 
 ## 🟡 Intermediate Level
@@ -60,7 +59,7 @@ At the advanced level, the focus shifts to optimizing your models, working with 
 
 ---
 
-## ⚒️ Popular Tools & Frameworks
+## ⚒️ Popular Tools  Frameworks
 
 ### **Scikit-Learn** (Python)
 A library for classical machine learning algorithms in Python, providing tools for model building, evaluation, and preprocessing.
@@ -86,7 +85,6 @@ Here are some extra resources that might come in handy:
 ### 📚 Books
 - **[Dive into Deep Learning](https://d2l.ai/)** - Offers an interactive learning experience with mathematics, figures, code, text and discussions.
 - **[Deep Learning](https://www.deeplearningbook.org/)** - Help students who enter the field of machine learning in general and deep learning in particular.
-
 - **[Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book)** - An introductory book about developing ML algorithms. 
 
 
