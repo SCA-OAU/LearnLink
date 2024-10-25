@@ -6,7 +6,7 @@ Welcome to the **Product Design Resources** Hub! Whether you're just starting ou
 1. [Getting Started](#getting-started)
 2. [Prototyping & Design Tools](#prototyping--design-tools)
 3. [Visual Design & Branding](#visual-design--branding)
-4. [Design Systems & UI Kits](design-systems--ui-kits)
+4. [Design Systems & UI Kits](#design-systems--ui-kits)
 5. [User Research & Usability Testing](#user-research--usability-testing)
 6. [Design Communities & Inspiration](#design-communities--inspiration)
 7. [Books to Read](#books-to-read)
