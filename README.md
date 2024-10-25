@@ -68,6 +68,14 @@ Access a range of materials of machine learning ranging from videos, courses, bo
 - [**Advanced Level**](./MachineLearning/MachineLearning.md/#-advanced-level)
 - [**Books**](./MachineLearning/MachineLearning.md/#-books)
 
+## 🖊️ Technical Writing
+
+Get access to different ranges of learning resources from videos, courses, tools to books in order to increase your productivity as a technical writer.
+- [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
+- [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
+- [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
+
 
 ---
 
