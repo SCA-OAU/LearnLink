@@ -65,6 +65,7 @@ Advanced technical writers focus on refining writing for clarity and precision, 
 Different tools make technical writing and document management more efficient. Here are some of the most popular:
 
 ### **Markdown** (Documentation)
+
 ![Markdown](./assets/markdown.png)
 
 A lightweight language that makes formatting simple and widely compatible across platforms.
@@ -73,6 +74,7 @@ A lightweight language that makes formatting simple and widely compatible across
 
 
 ### **Doxygen** (Code Documentation)
+
 ![Doxygen](./assets/Doxygen.png)
 
 A tool to automatically generate documentation from annotated source code.
@@ -80,7 +82,8 @@ A tool to automatically generate documentation from annotated source code.
 - **[Doxygen Official Docs](https://doxygen.nl/manual/index.html)** - Detailed instructions for using Doxygen in documentation.
 
 ### **Hashnode** 
-![](./assets/Hashnode.png)
+
+![Hashnode](./assets/Hashnode.png)
 
 A free blogging platform for documentation. 
 
