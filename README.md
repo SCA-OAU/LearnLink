@@ -63,6 +63,16 @@ Access a range of materials for personal growth, including goal setting, product
 - [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
 - [**Books**](./personalDevelopment/personaldevelopment/#-books)
 
+
+## Spatial Computing
+
+Spatial computing is any of various human–computer interaction techniques that are perceived by users as taking place in the real world, in and around their natural bodies and physical environments, instead of constrained to and perceptually behind computer screens. 
+
+Kickstart a career in Spatial Computing with the aid of these learning resources:
+
+- [**Articles**](./SpatialComputing/resources.md/#-articles)
+- [**Courses**](./SpatialComputing/resources.md/#-courses)
+- [**Communities**](./SpatialComputing/resources.md/#-communities)
 ## 🤖 Machine Learning
 
 Access a range of materials of machine learning ranging from videos, courses, books to make you better.
