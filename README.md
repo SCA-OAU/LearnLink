@@ -10,9 +10,10 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
 4. [Personal Development](#-personal-development)
-5. [Machine Learning](#-machine-learning)
-6. [Personal Development](#-personal-development)
-7. [Machine Learning](#-machine-learning)
+5. [Spatial Computing](#-spatial-computing)
+6. [Machine Learning](#-machine-learning)
+7. [Technical Writing](#-technical-writing)
+
 
 ---
 
@@ -63,6 +64,17 @@ Access a range of materials for personal growth, including goal setting, product
 - [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
 - [**Books**](./personalDevelopment/personaldevelopment/#-books)
 
+
+## Spatial Computing
+
+Spatial computing is any of various human–computer interaction techniques that are perceived by users as taking place in the real world, in and around their natural bodies and physical environments, instead of constrained to and perceptually behind computer screens. 
+
+Kickstart a career in Spatial Computing with the aid of these learning resources:
+
+- [**Articles**](./SpatialComputing/resources.md/#-articles)
+- [**Courses**](./SpatialComputing/resources.md/#-courses)
+- [**Communities**](./SpatialComputing/resources.md/#-communities)
+- 
 ## 🤖 Machine Learning
 
 Access a range of materials of machine learning ranging from videos, courses, books to make you better.
@@ -79,6 +91,7 @@ Get access to different ranges of learning resources from videos, courses, tools
 - [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
 - [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
 - [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
 
 ---
 
