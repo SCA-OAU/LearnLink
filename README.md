@@ -11,8 +11,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 3. [Mobile Development](#mobile-development)
 4. [Personal Development](#-personal-development)
 5. [Machine Learning](#-machine-learning)
-6. [Personal Development](#-personal-development)
-7. [Machine Learning](#-machine-learning)
+6. [Spatial Computing](#spatial-computing)
 
 ---
 
@@ -89,6 +88,7 @@ Get access to different ranges of learning resources from videos, courses, tools
 - [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
 - [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
 - [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
 
 ---
 
