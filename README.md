@@ -10,7 +10,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
 4. [Personal Development](#-personal-development)
-5. [Spatial Computing](#spatial-computing)
+5. [Spatial Computing](#-spatial-computing)
 6. [Machine Learning](#-machine-learning)
 7. [Technical Writing](#technical-writing)
 
@@ -36,6 +36,7 @@ Discover resources for backend development, including server-side languages, dat
 ## 📱Mobile Development
 
 Access resources for mobile development, including iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
+Access resources for mobile development, including iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
 
 - [**Beginners Level**](./MobileDevelopment//MobileDevelopment.md/#-beginners-level)
 - [**Intermediate Level**](./MobileDevelopment//MobileDevelopment.md/#-intermediate-level)
@@ -43,7 +44,9 @@ Access resources for mobile development, including iOS and Android platforms. Fi
 
 ## 🎨Product Design
 
+
 Access resources for product design. Find tutorials, courses, blogs and communities to help you design and curate excellent user experience.
+
 
 - [**Beginners level**](./ProductDesign//ProductDesign.md/#getting-started)
 - [**Intermediate level**](./ProductDesign//ProductDesign.md/#prototyping--design-tools)
@@ -51,7 +54,9 @@ Access resources for product design. Find tutorials, courses, blogs and communit
 
 ## 👨‍💻Programming Basics
 
+
 Access resources to help you kickstart your programming journey. Find tutorials to the 10 most popular programming languages.
+
 
 - [**Beginners level**](./ProgrammingBasics//ProgrammingBasics.md)
 
@@ -75,6 +80,7 @@ Kickstart a career in Spatial Computing with the aid of these learning resources
 - [**Courses**](./SpatialComputing/resources.md/#-courses)
 - [**Communities**](./SpatialComputing/resources.md/#-communities)
 - 
+- 
 ## 🤖 Machine Learning
 
 Access a range of materials of machine learning ranging from videos, courses, books to make you better.
@@ -93,13 +99,24 @@ Get access to different ranges of learning resources from videos, courses, tools
 - [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
 
 
+## 🖊️ Technical Writing
+
+Get access to different ranges of learning resources from videos, courses, tools to books in order to increase your productivity as a technical writer.
+
+- [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
+- [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
+- [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
+
 ---
 
 ## 🤝 Contributions
 
+
 We welcome contributions to make this repository even more valuable! If you have resources to add or improvements to suggest, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
 ### Contributors
+
 
 <a href="https://github.com/SCA-OAU/LearnLink/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SCA-OAU/LearnLink" />
@@ -109,11 +126,13 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## 📧 Support
 
+
 Don't forget to star ⭐ this repo if you find this helpful
 
 ---
 
 ## 📑 License
+
 
 This project is licensed under the MIT License - see the [license](./LICENSE.md) file for details.
 
