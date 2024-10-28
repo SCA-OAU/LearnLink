@@ -11,8 +11,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 3. [Mobile Development](#mobile-development)
 4. [Personal Development](#-personal-development)
 5. [Machine Learning](#-machine-learning)
-6. [Personal Development](#-personal-development)
-7. [Machine Learning](#-machine-learning)
+6. [Technical Writing](#technical-writing)
 
 ---
 
