@@ -3,11 +3,11 @@
 Welcome to the **DevOps Learning Resources** repository! This repository provides a curated list of resources for DevOps, from fundamental concepts to advanced topics. Whether you're just starting out or aiming to refine your skills, you'll find valuable materials here.
 
 ## 📑 Table of Contents
-1. [Beginner Level](#beginner-level)
-2. [Intermediate Level](#intermediate-level)
-3. [Advanced Level](#advanced-level)
-4. [Tools & Resources](#tools-and-resources)
-5. [Contribute](#contribute)
+1. [Beginner Level](#-beginner-level)
+2. [Intermediate Level](#-intermediate-level)
+3. [Advanced Level](#-advanced-level)
+4. [Tools & Resources](#-tools--resources)
+5. [Contribute](#-contribute)
 
 ---
 
