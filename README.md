@@ -12,6 +12,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 4. [Personal Development](#-personal-development)
 5. [Spatial Computing](#spatial-computing)
 6. [Machine Learning](#-machine-learning)
+7
 
 ---
 
