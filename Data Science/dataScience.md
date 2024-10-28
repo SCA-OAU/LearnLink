@@ -11,7 +11,11 @@ Welcome to the **Data Science Learning Resources** repository! Here, you'll find
 
 ## 🟢 Beginner Level
 
-Start with the basics of Data Science, including data analytics, data visualisation and machine learning.
+### 🧠 What is Data Science?
+Data science is a field that uses scientific methods, algorithms, and systems to gain insights from both organized and unorganized data. It combines math, statistics, specialized programming, advanced analytics, AI, and machine learning with specific domain knowledge to uncover actionable information in an organization’s data. These insights support decision-making and strategic planning.
+
+### Who is a Data Scientist?
+A data scientist works with data to understand and explain different phenomena, helping organizations make better decisions. Their work often overlaps with data analysts, especially in exploring and visualizing data. However, data scientists generally have a broader skillset, using programming languages like R and Python to perform deeper statistical analysis and data visualization.
 
 ### Courses & Tutorials:
 - [**Statistics**](https://youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) - **Statistics**: Introduction to Statistics.
@@ -57,3 +61,5 @@ Want to add a resource? Contributions are welcome! Please check out the [CONTRIB
 ---
 
 Feel free to explore and share with your community! 🚀
+
+[Introduction]: #-introduction
