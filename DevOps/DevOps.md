@@ -32,7 +32,7 @@ Explore more advanced DevOps practices such as Ansible, Terraform, Docker and Do
 ### Courses & Tutorials:
 - [**Ansible**](https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - **YouTube**: Getting Started with Ansible.
 - [**Docker**](https://youtu.be/pg19Z8LL06w?si=vhUEKlorObUs-WpR) - **YouTube**: Docker Crash Course for Absolute Beginners.
-- [**Docker Compose**](https://youtu.be/SXwC9fSwct8?si=tsm2_FnN8VkjUSXy) - **YouTube**:  Ultimate Docker Compose .
+- [**Docker Compose**](https://youtu.be/SXwC9fSwct8?si=tsm2_FnN8VkjUSXy) - **YouTube**:  Ultimate Docker Compose.
 - [**Terraform**](https://youtu.be/7xngnjfIlK4?si=swuG5djNoX_R-r4h) - **YouTube**:  Complete Terraform Course.
 
 ---
