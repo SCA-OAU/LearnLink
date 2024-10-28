@@ -3,12 +3,9 @@
 Welcome to the **Data Science Learning Resources** repository! Here, you'll find a curated list of resources organized from beginner to advanced levels. Whether you're just starting out or looking to advance your skills, these resources will guide you through the journey of becoming a proficient Data Scientist.
 
 ## 📑 Table of Contents
-1. [Beginner Level](#beginner-level)
-2. [Intermediate Level](#intermediate-level)
-3. [Advanced Level](#advanced-level)
-4. [Books](#books)
-5. [Tools & Resources](#tools-and-resources)
-6. [Contribute](#contribute)
+1. [Beginner Level](#-beginner-level)
+2. [Tools and Resources](#️-tools-and-resources)
+3. [Contribute](#-contribute)
 
 ---
 
