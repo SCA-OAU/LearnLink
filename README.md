@@ -9,9 +9,14 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 1. [Frontend Development](#-frontend-development)
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
-4. [Personal Development](#-personal-development)
-5. [Spatial Computing](#spatial-computing)
-6. [Machine Learning](#-machine-learning)
+
+
+4. [Product Design](#product-design)
+5. [Programming Basics](#programming-basics)
+6. [Personal Development](#-personal-development)
+7. [Spatial Computing](#spatial-computing)
+8. [Machine Learning](#-machine-learning)
+
 
 ---
 
@@ -33,23 +38,30 @@ Discover resources for backend development, including server-side languages, dat
 
 ## 📱Mobile Development
 
-Access resources for mobile development, including  iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
+Access resources for mobile development, including iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
+Access resources for mobile development, including iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
 
 - [**Beginners Level**](./MobileDevelopment//MobileDevelopment.md/#-beginners-level)
 - [**Intermediate Level**](./MobileDevelopment//MobileDevelopment.md/#-intermediate-level)
 - [**Advanced Level**](./MobileDevelopment//MobileDevelopment.md/#-advanced-level)
 
 ## 🎨Product Design
+
+
 Access resources for product design. Find tutorials, courses, blogs and communities to help you design and curate excellent user experience.
+
+
 - [**Beginners level**](./ProductDesign//ProductDesign.md/#getting-started)
 - [**Intermediate level**](./ProductDesign//ProductDesign.md/#prototyping--design-tools)
 - [**Advanced level**](./ProductDesign//ProductDesign.md.md/#design-systems--ui-kits)
 
 ## 👨‍💻Programming Basics
+
+
 Access resources to help you kickstart your programming journey. Find tutorials to the 10 most popular programming languages.
+
+
 - [**Beginners level**](./ProgrammingBasics//ProgrammingBasics.md)
-
-
 
 ## 🧠 Personal Development
 
@@ -70,6 +82,8 @@ Kickstart a career in Spatial Computing with the aid of these learning resources
 - [**Articles**](./SpatialComputing/resources.md/#-articles)
 - [**Courses**](./SpatialComputing/resources.md/#-courses)
 - [**Communities**](./SpatialComputing/resources.md/#-communities)
+- 
+- 
 ## 🤖 Machine Learning
 
 Access a range of materials of machine learning ranging from videos, courses, books to make you better.
@@ -79,12 +93,34 @@ Access a range of materials of machine learning ranging from videos, courses, bo
 - [**Advanced Level**](./MachineLearning/MachineLearning.md/#-advanced-level)
 - [**Books**](./MachineLearning/MachineLearning.md/#-books)
 
+## 🖊️ Technical Writing
+
+Get access to different ranges of learning resources from videos, courses, tools to books in order to increase your productivity as a technical writer.
+
+- [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
+- [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
+- [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
+
+## 🖊️ Technical Writing
+
+Get access to different ranges of learning resources from videos, courses, tools to books in order to increase your productivity as a technical writer.
+
+- [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
+- [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
+- [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
+
+
 ---
 
 ## 🤝 Contributions
+
+
 We welcome contributions to make this repository even more valuable! If you have resources to add or improvements to suggest, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
 ### Contributors
+
+
 <a href="https://github.com/SCA-OAU/LearnLink/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SCA-OAU/LearnLink" />
 </a>
@@ -92,11 +128,15 @@ We welcome contributions to make this repository even more valuable! If you have
 Made with [contrib.rocks](https://contrib.rocks).
 
 ## 📧 Support
+
+
 Don't forget to star ⭐ this repo if you find this helpful
 
 ---
 
 ## 📑 License
+
+
 This project is licensed under the MIT License - see the [license](./LICENSE.md) file for details.
 
 ---

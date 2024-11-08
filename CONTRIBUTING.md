@@ -1,4 +1,4 @@
-# Contributing to [Repository Name]
+# Contributing to LearnLink
 
 Thank you for your interest in contributing to this repository! We appreciate your help in building a comprehensive resource hub for learners in various tech fields.
 
