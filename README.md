@@ -12,6 +12,7 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 4. [Personal Development](#-personal-development)
 5. [Spatial Computing](#spatial-computing)
 6. [Machine Learning](#-machine-learning)
+7. [Data Science](#data-science)
 
 ---
 
@@ -72,12 +73,18 @@ Kickstart a career in Spatial Computing with the aid of these learning resources
 - [**Communities**](./SpatialComputing/resources.md/#-communities)
 ## 🤖 Machine Learning
 
-Access a range of materials of machine learning ranging from videos, courses, books to make you better.
+Access a range of materials of data science ranging from videos, courses, books to make you better.
 
 - [**Beginner Level**](./MachineLearning/MachineLearning.md/#-beginner-level)
 - [**Intermediate Level**](./MachineLearning/MachineLearning.md/#-intermediate-level)
 - [**Advanced Level**](./MachineLearning/MachineLearning.md/#-advanced-level)
 - [**Books**](./MachineLearning/MachineLearning.md/#-books)
+
+## Data Science
+
+Access a range of materials of data science ranging from videos and courses to make you better.
+
+- [**Beginner Level**](./DataScience/dataScience.md/#-beginner-level)
 
 ---
 
