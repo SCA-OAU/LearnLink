@@ -76,6 +76,7 @@ JavaScript, traditionally a frontend language, can also be used for backend deve
 - [**CS50: Web Programming with Python and JavaScript**](https://cs50.harvard.edu/web/2020/) - Harvard's free web programming course.
 - [**Complete SQL Mastery**](https://codewithmosh.com/p/complete-sql-mastery) - **CodeWithMosh**: Everything you need to design and query databases in one course
 - [**Version Control with Git**](https://www.udacity.com/course/version-control-with-git--ud123) - **Udacity**: This course covers the essentials of using the version control system Git. 
+- [**Unit Testing in Python**](https://youtu.be/6tNS--WetLI?si=kdo0WWNQD6KhiYvX) - **Youtube**: Learn how to write unittest using the unittest module.
 
 ### 🧠 Key Concepts:
 - [**Introduction to Databases**](https://www.khanacademy.org/computing/computer-science/sql) - **Khan Academy**: Basics of SQL and database management.
