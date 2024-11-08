@@ -10,6 +10,8 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
 4. [Personal Development](#-personal-development)
+5. [Machine Learning](#-machine-learning)
+6. [Technical Writing](#technical-writing)
 5. [Spatial Computing](#-spatial-computing)
 6. [Machine Learning](#-machine-learning)
 7. [Technical Writing](#technical-writing)
@@ -107,9 +109,7 @@ Get access to different ranges of learning resources from videos, courses, tools
 - [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
 - [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
 
-
 ---
-
 ## 🤝 Contributions
 
 
