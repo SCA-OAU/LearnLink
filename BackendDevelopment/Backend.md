@@ -17,6 +17,8 @@ Stay updated with the latest tutorials, resources, and backend development tips 
 - **[PyCoders Weekly](https://pycoders.com/)**: Weekly updates on Python development.
 - **[Django News](https://django-news.com/)**: A newsletter for Django-related news, tutorials, and resources.
 - **[The Changelog](https://changelog.com/)**: News and updates from the open-source community, including backend technologies.
+- **[Interview preparation](https://blog.algomaster.io/)**: A newsletter on Data Structures and Alogorithms(DSA) and System Design Interview preparation.
+- **[Backend Weekly](https://newsletter.masteringbackend.com/p/interpreter-and-memento-method-design-patterns-gof)**: A newsletter on weekly updates on backend.
 
 📧 **Subscribe to these and more** to keep learning and improving your skills!
 
@@ -28,7 +30,8 @@ Stay updated with the latest tutorials, resources, and backend development tips 
 3. [Advanced Level](#-advanced-level)
 4. [Tools & Resources](#-tools-and-resources)
 5. [Communities](#-communities)
-6. [Contribute](#-contribute)
+6. [Repos](#-repos---a-must-follow-repos)
+7. [Contribute](#-contribute)
 
 ---
 
@@ -222,6 +225,10 @@ Stay organized and collaborate effectively with these essential tools:
 - [**Developers of Value**](https://chat.whatsapp.com/BY8mLdHaD81BqpgCmwumbU)
 - [**Django Discord Community**](https://discord.com/invite/xcRH6mN4fa)
 - [**MLH Discord Community**](https://discord.com/invite/mlh)
+
+## 🚀 Repos - A must Follow repos
+- [**Pragati Verma**](https://github.com/PragatiVerma18)
+- [**Ashish Pratap Singh**](https://github.com/ashishps1)
 
 ## 🤝 Contribute
 

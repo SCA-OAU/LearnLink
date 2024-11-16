@@ -26,11 +26,12 @@ Machine learning is a field of artificial intelligence (AI) that allows systems 
 
 ### Resources for Beginners
 
-1. **[Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course)** - A free, fast-paced introduction to machine learning.
-2. **[Introduction to Machine Learning with Python](https://realpython.com/learning-paths/machine-learning-python/)** - Learn the basics of machine learning in Python.
-3. **[Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning)** - The classic beginner course from Coursera. 33 hours
-4. **[DataCamp’s Machine Learning Tutorials](https://www.datacamp.com/courses/intro-to-machine-learning-with-python)** - Hands-on tutorials with Python.
-5. **[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)** -
+1. **[Machine Learning Roadmap](https://guides.codewithmosh.com/machine-learning-engineer-roadmap)** - A roadmap on machine learning.
+2. **[Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course)** - A free, fast-paced introduction to machine learning.
+3. **[Introduction to Machine Learning with Python](https://realpython.com/learning-paths/machine-learning-python/)** - Learn the basics of machine learning in Python.
+4. **[Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning)** - The classic beginner course from Coursera. 33 hours
+5. **[DataCamp’s Machine Learning Tutorials](https://www.datacamp.com/courses/intro-to-machine-learning-with-python)** - Hands-on tutorials with Python.
+6. **[Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)** -
 Machine Learning with Python.
 
 ---
