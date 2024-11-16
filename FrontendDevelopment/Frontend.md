@@ -16,10 +16,14 @@ Welcome to the **Frontend Development Learning Resources** repository! Here, you
 Start your journey with the basics of frontend development. Here are resources that will teach you HTML, CSS, JavaScript, and an introduction to web development concepts.
 
 ### Courses & Tutorials:
+-[**Frontend Roadmap**](https://guides.codewithmosh.com/frontend-developer-roadmap)
 - [**HTML & CSS for Beginners - by freeCodeCamp**](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [**JavaScript Basics - by MDN Web Docs**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 - [**Intro to Web Development - by Coursera**](https://www.coursera.org/specializations/web-design)
 - [**Frontend Mentor - Practice Frontend Skills**](https://www.frontendmentor.io/)
+- [**HTML Tutorial for beginners - Mosh**](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [**Javascript Tutorial**](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+
 
 ### Key Concepts:
 - [**Responsive Web Design**](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
@@ -37,6 +41,8 @@ At this level, you'll delve deeper into JavaScript, modern CSS techniques, and b
 - [**Modern JavaScript Tutorial - by JavaScript.info**](https://javascript.info/)
 - [**CSS Grid - by MDN**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [**React Basics - by Scrimba**](https://scrimba.com/learn/learnreact)
+- [**The Ultimate React Course**](https://www.udemy.com/share/108PTo3@dfG7V4KpZ7N5gYXtONq5vSDPTg0Cu4aigRyoWl75xNEs6juJ5HeUFGJ3RG4rmMt_oQ==/)
+- [**The Complete JavaScript course**](https://www.udemy.com/share/101Wfe3@OwoYIWAUkQWabPD-itVVTn9np28j6d8iPvuQl7UWlBIvPcEcFTx63Uck7WpTsaqKgA==/)
 
 ### Key Concepts:
 - [**CSS Grid Layout**](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -54,6 +60,7 @@ For advanced learners, focus on performance optimization, state management, test
 - [**Vue.js Mastery - by Vue Mastery**](https://www.vuemastery.com/courses/real-world-vue3/)
 - [**JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [**Fullstack Open - Deep Dive into Modern Web Development**](https://fullstackopen.com/en/)
+- [**Javascript and React patterns**](https://www.patterns.dev/)
 
 ### Key Concepts:
 - [**State Management with Redux**](https://redux.js.org/)
