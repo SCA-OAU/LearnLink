@@ -6,8 +6,8 @@ Welcome to the *Robotics* section of LearnLink! This section provides a curated 
 
 ## 📚 Free Courses & Learning Platforms
 
-- [Introduction to Robotics (QUT) – FutureLearn](https://www.futurelearn.com/courses/introduction-to-robotics)  
-- [Robotics Specialization – Coursera (Audit for Free)](https://www.coursera.org/specializations/robotics)  
+- [Introduction to Robotics (QUT) – FutureLearn](https://www.futurelearn.com/courses/robotics-and-society)  
+- [Robotics Specialization – Coursera (Audit for Free)](https://www.coursera.org/specializations/modernrobotics)  
 - [Modern Robotics: Mechanics, Planning, and Control – Northwestern (YouTube Series)](https://www.youtube.com/playlist?list=PL2D06FAF3EFD1EF16)  
 - [MIT OpenCourseWare – Robotics](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=mechanicalengineering&spec=robotics)
 
