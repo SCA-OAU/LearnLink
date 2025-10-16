@@ -75,6 +75,7 @@ JavaScript, traditionally a frontend language, can also be used for backend deve
 - [**SQL for Data Science**](https://www.coursera.org/learn/sql-for-data-science) - **Coursera**: Learn SQL and relational databases.
 - [**CS50: Web Programming with Python and JavaScript**](https://cs50.harvard.edu/web/2020/) - Harvard's free web programming course.
 - [**Complete SQL Mastery**](https://codewithmosh.com/p/complete-sql-mastery) - **CodeWithMosh**: Everything you need to design and query databases in one course
+
 - [**Version Control with Git**](https://www.udacity.com/course/version-control-with-git--ud123) - **Udacity**: This course covers the essentials of using the version control system Git. 
 - [**Unit Testing in Python**](https://youtu.be/6tNS--WetLI?si=kdo0WWNQD6KhiYvX) - **Youtube**: Learn how to write unittest using the unittest module.
 
@@ -160,6 +161,7 @@ Node.js is a JavaScript runtime that allows you to build scalable and efficient 
 - [**Securing APIs**](https://www.pluralsight.com/courses/securing-restful-apis) - **Pluralsight**: Best practices for API security.
 - [**Docker Handbook**](https://www.freecodecamp.org/news/the-docker-handbook/) - Intro to Docker and containerization.
 - [**Understand Django: Beginner to Intermediate Guide**](https://www.mattlayman.com/understand-django/) - A comprehensive guide to learning Django.
+
 - [**The Ultimate Git Course**](https://codewithmosh.com/p/the-ultimate-git-course) - **CodeWithMosh**: Everything you need to know to use Git & GitHub to work effectively as a team.
   
 ### 🧠 Key Concepts:
@@ -181,6 +183,7 @@ At this level, you’ll explore in-depth backend topics such as advanced data mo
 
 ### 📚 Courses & Tutorials:
 - [**Database Performance Tuning**](https://www.pluralsight.com/courses/database-performance-tuning) - **Pluralsight**: Strategies for optimizing database performance.
+
 - [**The Ultimate Docker Course**](https://codewithmosh.com/p/the-ultimate-docker-course) - **CodeWithMosh**: Everything you need to master Docker in one clear, concise, and practical course
 - [**The Ultimate Design Pattern Series**](https://codewithmosh.com/p/design-patterns) - **CodeWithMosh**: Learn to write maintainable and extensible code. Become a senior software engineer.
 - [**System Design Playlist**](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=yVaGqcr77fUaqBE1) - **Youtube**: This series covers essential system design topics like load balancing, microservices, and NoSQL, with video lectures, architecture diagrams, and practical evaluations for real-world application.
@@ -189,7 +192,7 @@ At this level, you’ll explore in-depth backend topics such as advanced data mo
 - [**Microservices Architecture**](https://microservices.io/) - Comprehensive guide to microservices.
 - [**20 System Design Concepts Explained in 10 Minutes**](https://youtu.be/i53Gi_K3o7I?si=80IKVI0wYJsMqbNL) - A brief overview of 20 system design concept.
   
-### 📖 Books
+=### 📖 Books
 - **Designing Web APIs that Developers Love by Brenda Jin, Saurabh Sahni & Amir Shevat**
 - **Django Design Patterns and Best Practices by Arun Ravindran**
 
@@ -218,6 +221,7 @@ Stay organized and collaborate effectively with these essential tools:
 ---
 
 ## 🌍 Communities
+
 - [**Django Africa**](https://chat.whatsapp.com/D5O7Ef51xEDEhuns8hClaI)
 - [**Developers of Value**](https://chat.whatsapp.com/BY8mLdHaD81BqpgCmwumbU)
 - [**Django Discord Community**](https://discord.com/invite/xcRH6mN4fa)

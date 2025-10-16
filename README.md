@@ -9,8 +9,6 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 1. [Frontend Development](#-frontend-development)
 2. [Backend Development](#-backend-development)
 3. [Mobile Development](#mobile-development)
-
-
 4. [Product Design](#product-design)
 5. [Programming Basics](#programming-basics)
 6. [Personal Development](#-personal-development)
@@ -101,18 +99,7 @@ Get access to different ranges of learning resources from videos, courses, tools
 - [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
 - [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
 
-
-## 🖊️ Technical Writing
-
-Get access to different ranges of learning resources from videos, courses, tools to books in order to increase your productivity as a technical writer.
-
-- [**Beginners Level**](./TechnicalWriting/TechnicalWriting.md/#-beginners-level)
-- [**Intermediate Level**](./TechnicalWriting/TechnicalWriting.md/#-intermediate-level)
-- [**Advanced Level**](./TechnicalWriting/TechnicalWriting.md/#-advanced-level)
-
-
 ---
-
 ## 🤝 Contributions
 
 
