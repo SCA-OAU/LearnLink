@@ -32,7 +32,7 @@ A data scientist works with data to understand and explain different phenomena, 
 - [**Data Visualisation**](https://datacamp.com/) - Understanding Data Visualisation Course.
 - [**Machine Learning Algorithms**](https://datacamp.com/) - Machine learning.
 - [**Data Storytelling**](https://datacamp.com/) - Data Storytelling Concepts.
-
+- [**Feature Engineering**](https://www.kaggle.com/learn/feature-engineering)- Better features make better models. Discover how to get the most out of your data.
 ---
 
 ## ⚒️ Tools and Resources
@@ -56,7 +56,7 @@ Enhance your data science journey with these essential tools and platforms.
 
 ## 🤝 Contribute
 
-Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute.
+Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ---
 
