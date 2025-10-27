@@ -25,6 +25,7 @@ Python is a versatile and beginner-friendly programming language. It’s widely 
 - [Learn Python by FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Learn Python by Microsoft Learn](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=f551848d-b49e-4a8b-b942-3e5f4da14e2d&wt.mc_id=studentamb_415074)
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Learn Python by Kaggle](https://www.kaggle.com/learn/python)
 
 ## JavaScript
 
@@ -124,6 +125,6 @@ These resources provide a strong foundation for learning programming languages a
 
 ## 🤝 Contribute
 
-Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
+Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
 
 Feel free to explore and share with your community! 🚀
