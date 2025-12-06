@@ -1,0 +1,34 @@
+name: PR Quality Checks
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+jobs:
+  pr-checks:
+    name: Validate Pull Request
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Validate PR Title (Conventional Commits)
+        uses: amitsingh-007/semantic-pr-title@v2.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure PR Description is Present
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const body = context.payload.pull_request.body;
+            if (!body || body.trim().length < 10) {
+              core.setFailed("❌ PR description is missing or too short. Please provide a clear description.");
+            }
+
+      - name: Markdown Lint (Docs Check)
+        run: |
+          npm install -g markdownlint-cli
+          markdownlint "**/*.md" --ignore node_modules
