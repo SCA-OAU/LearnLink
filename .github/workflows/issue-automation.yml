@@ -2,19 +2,21 @@ name: Issue Automation
 
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
 
 jobs:
   auto_manage_issues:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
     - name: Add default labels
       uses: actions-ecosystem/action-add-labels@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        labels: |
-          needs-triage
+        labels: needs-triage
 
     - name: Comment with Issue Guidelines
       uses: peter-evans/create-or-update-comment@v3
@@ -26,11 +28,11 @@ jobs:
 
           Please confirm the following to help us review your request:
 
-          - [ ] Clear description
-          - [ ] Expected behaviour
-          - [ ] Steps to reproduce
-          - [ ] Screenshots if possible
-          - [ ] Proper title format
+          - [ ] Clear description  
+          - [ ] Expected behaviour  
+          - [ ] Steps to reproduce  
+          - [ ] Screenshots if possible  
+          - [ ] Proper title format  
 
           A maintainer will review shortly. 🚀
 
