@@ -1,0 +1,29 @@
+name: Markdown Linting
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+  push:
+    paths:
+      - "**/*.md"
+
+jobs:
+  markdown-lint:
+    name: Run Markdown Linter
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Run Markdown Lint
+        run: markdownlint "**/*.md" --ignore node_modules
