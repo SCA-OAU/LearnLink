@@ -1,0 +1,48 @@
+name: Pull Request Automation
+
+on:
+  pull_request:
+    types: [opened, edited, reopened]
+
+jobs:
+  manage_prs:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Add PR Labels
+      uses: actions-ecosystem/action-add-labels@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        labels: |
+          needs-review
+
+    - name: Comment with PR Guidelines
+      uses: peter-evans/create-or-update-comment@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        issue-number: ${{ github.event.pull_request.number }}
+        body: |
+          👋 Thanks for contributing!
+
+          Before we proceed, please check the following:
+
+          - [ ] Linked issue  
+          - [ ] Clear description  
+          - [ ] Code follows project style  
+          - [ ] Tests included (if necessary)
+          - [ ] PR title follows **conventional commits**
+
+          Reviewers will check soon. 🚀
+
+    - name: Auto Assign Maintainers
+      uses: kentaro-m/auto-assign-action@v2.0.0
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        reviewers: |
+          Adekanmi-M
+          SCA-OAU-Tech-Team
+
+    - name: Enforce PR Title Rules
+      uses: amitsingh-007/semantic-pr-title@v2.3.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
