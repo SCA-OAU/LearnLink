@@ -36,8 +36,6 @@ JavaScript is essential for web development, allowing you to create dynamic and 
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn)
 - [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming)  
-  Offers interactive lessons in programming concepts using JavaScript and visual tutorials, great for absolute beginners.  
-  Duration: Self-paced, can be done in several weeks depending on progress.
 
 ## C++
 
