@@ -1,0 +1,35 @@
+name: Duplicate Resource Checker
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+
+jobs:
+  check-duplicates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for duplicate links
+        run: |
+          echo "🔍 Checking for duplicate resource links..."
+
+          links=$(grep -rhoE 'https?://[^ )"]+' \
+            --include="*.md" \
+            --exclude-dir=".git" \
+            . | sort)
+
+          duplicates=$(echo "$links" | uniq -d)
+
+          if [ -n "$duplicates" ]; then
+            echo ""
+            echo "❌ Duplicate resources found:"
+            echo "$duplicates"
+            echo ""
+            exit 1
+          fi
+
+          echo "✅ No duplicate resource links found."

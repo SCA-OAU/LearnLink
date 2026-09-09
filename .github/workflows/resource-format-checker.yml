@@ -1,0 +1,70 @@
+name: Resource Format Checker
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "**/*.md"
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check-resource-format:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check added resources
+        run: |
+          echo "📋 Checking added resources..."
+
+          git diff --unified=0 origin/${{ github.base_ref }}...HEAD -- '*.md' > changes.diff
+
+          errors=0
+
+          while IFS= read -r line; do
+
+            # Only inspect added lines
+            if [[ "$line" != +* || "$line" == "+++"* ]]; then
+              continue
+            fi
+
+            content="${line:1}"
+
+            # Ignore normal headings and blank lines
+            if [[ -z "$content" || "$content" =~ ^# ]]; then
+              continue
+            fi
+
+            # If the added line contains a resource link,
+            # check that the resource has a description and duration.
+            if [[ "$content" =~ https?://[^[:space:]\)]+ ]]; then
+
+              echo "Checking resource:"
+              echo "$content"
+
+              if ! grep -qiE 'Duration:' changes.diff; then
+                echo "❌ Duration is missing."
+                errors=$((errors + 1))
+              fi
+
+            fi
+
+          done < changes.diff
+
+          rm -f changes.diff
+
+          if [ "$errors" -gt 0 ]; then
+            echo ""
+            echo "❌ Resource format check failed."
+            echo "Please make sure your added resource follows the project format."
+            exit 1
+          fi
+
+          echo "✅ Resource format check passed."

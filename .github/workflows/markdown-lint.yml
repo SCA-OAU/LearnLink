@@ -2,11 +2,13 @@ name: Markdown Linting
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened]
     paths:
       - "**/*.md"
-  push:
-    paths:
-      - "**/*.md"
+
+permissions:
+  contents: read
+  pull-requests: read
 
 jobs:
   markdown-lint:
@@ -20,7 +22,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install markdownlint-cli
         run: npm install -g markdownlint-cli

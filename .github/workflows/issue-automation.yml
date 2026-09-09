@@ -4,12 +4,7 @@ on:
   issues:
     types: [opened]
 
-# -----------------------------------------------------------
-# FIX APPLIED: Permissions Block
-# This explicitly grants the token permission to modify issues
-# -----------------------------------------------------------
 permissions:
-  contents: read
   issues: write
 
 jobs:
@@ -17,39 +12,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Add default labels
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: needs-triage
 
-    - name: Add default labels
-      uses: actions-ecosystem/action-add-labels@v1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        labels: needs-triage
+      - name: Comment with Issue Guidelines
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            👋 Hi! Thanks for opening an issue.
 
-    - name: Comment with Issue Guidelines
-      uses: peter-evans/create-or-update-comment@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        issue-number: ${{ github.event.issue.number }}
-        body: |
-          👋 Hi! Thanks for opening an issue.
+            Please confirm the following to help us review your request:
 
-          Please confirm the following to help us review your request:
+            - [ ] Clear description
+            - [ ] Expected behaviour
+            - [ ] Steps to reproduce
+            - [ ] Screenshots if possible
+            - [ ] Proper title format
 
-          - [ ] Clear description  
-          - [ ] Expected behaviour  
-          - [ ] Steps to reproduce  
-          - [ ] Screenshots if possible  
-          - [ ] Proper title format  
+            A maintainer will review shortly. 🚀
 
-          A maintainer will review shortly. 🚀
-
-    - name: Auto-close low quality issues
-      # Note: This checks strictly for lowercase. 
-      # Consider using verify logic if you need case-insensitive checks.
-      if: contains(github.event.issue.title, 'help') || contains(github.event.issue.title, 'urgent')
-      uses: peter-evans/close-issue@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        comment: |
-          ❌ Issue automatically closed because the title does not meet our quality guidelines.
+      - name: Auto-close low quality issues
+        if: contains(github.event.issue.title, 'help') || contains(github.event.issue.title, 'urgent')
+        uses: peter-evans/close-issue@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          comment: |
+            ❌ Issue automatically closed because the title does not meet our quality guidelines.

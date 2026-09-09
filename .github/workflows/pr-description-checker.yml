@@ -1,0 +1,38 @@
+name: PR Description Checker
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check-description:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check PR description
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          echo "📝 Checking PR description..."
+
+          if [ -z "$PR_BODY" ]; then
+            echo "❌ PR description is empty."
+            echo "Please explain what your PR changes and why."
+            exit 1
+          fi
+
+          LENGTH=${#PR_BODY}
+
+          echo "Description length: $LENGTH characters"
+
+          if [ "$LENGTH" -lt 50 ]; then
+            echo "❌ PR description is too short."
+            echo "Please provide at least 50 characters."
+            exit 1
+          fi
+
+          echo "✅ PR description check passed."
